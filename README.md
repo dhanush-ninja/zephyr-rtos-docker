@@ -1,6 +1,6 @@
 # Zephyr Docker Development Environment
 
-This repository provides a ready-to-use Dockerfile for developing with the [Zephyr RTOS](https://zephyrproject.org/) on Ubuntu 22.04 or later, with all dependencies, Python environment, and Zephyr SDK installed according to the official [Zephyr Getting Started Guide](https://docs.zephyrproject.org/latest/develop/getting_started/index.html).
+This repository provides a ready-to-use Dockerfile for developing with the [Zephyr RTOS](https://zephyrproject.org/) on Ubuntu 24.04 or later, with all dependencies, Python environment, and Zephyr SDK installed according to the official [Zephyr Getting Started Guide](https://docs.zephyrproject.org/latest/develop/getting_started/index.html).
 
 ## Features
 
